@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 30 June 2022
+From: 24 June 2022 - To: 01 July 2022
 
-Python           31 hrs 32 mins  ███████████▓░░░░░░░░░░░░░   47.07 %
-Jupyter          11 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-Other            7 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Python           24 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   42.22 %
+Jupyter          14 hrs 59 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Bash             6 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Markdown         4 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Other            3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
