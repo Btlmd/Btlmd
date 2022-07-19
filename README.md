@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
-Jupyter          5 hrs           ██████████▓░░░░░░░░░░░░░░   42.72 %
-Python           4 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   41.83 %
-Other            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Python           5 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   44.68 %
+Jupyter          4 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   38.03 %
+Text             54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Other            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
