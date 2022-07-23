@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Python           10 hrs 18 mins  █████████████░░░░░░░░░░░░   52.56 %
-Jupyter          5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Text             2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Bash             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-GitIgnore file   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Python           17 hrs 20 mins  ████████████████▒░░░░░░░░   64.87 %
+Jupyter          5 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Text             2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Bash             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
