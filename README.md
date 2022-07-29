@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Stats for fun ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btlmd&layout=compact) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Btlmd&show_icons=true)
+
 <!--START_SECTION:waka-->
 
 ```text
